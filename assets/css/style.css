@@ -1,1 +1,16 @@
-/* Comment Line */
+.NameTable, th, tr, td{
+    border: solid 1px #000;
+    border-collapse: collapse;
+}
+.MeenaRow{
+    background-color: pink;
+}
+.NaveenRow{
+    background-color: violet;
+}
+.VarshiniRow{
+    background-color: aqua;
+}
+.KeerthanaRow{
+    background-color: tomato;
+}
